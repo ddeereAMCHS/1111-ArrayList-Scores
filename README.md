@@ -1,7 +1,7 @@
-# Template
+# ArrayList Scores
 
-- Create a program called `.java`
-- Prompt the user for 
+- Create a program called `Scores.java`
+- Prompt the user for a filename
 
 ***Example Input:***\
 \
