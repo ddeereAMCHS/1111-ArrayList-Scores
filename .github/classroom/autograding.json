@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "input.txt",
+      "setup": "javac Scores.java",
+      "run": "java Scores",
+      "input": "input.txt",
+      "output": "[3, 14, 18, 5, 54, 16, 19, 34, 26, 17, 4, 22, 31, 45, 99]\r\nMean: 28.857\r\nMedian: 20.5\r\nMax: 99\r\nMin: 4",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 33
+    },
+    {
+      "name": "scoresin.txt",
+      "setup": "javac Scores.java",
+      "run": "java Scores",
+      "input": "scoresin.txt",
+      "output": "[90, 85, 79, 98, 60, 71, 96, 96, 84, 80, 94, 74, 78, 91, 96, 75, 86, 64, 72, 91]\r\nMean: 84.211\r\nMedian: 85.0\r\nMax: 98\r\nMin: 64",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 33
+    },
+    {
+      "name": "scores2.txt",
+      "setup": "javac Scores.java",
+      "run": "java Scores",
+      "input": "scores2.txt",
+      "output": "[99, 74, 65, 81, 85, 81, 96, 100, 61, 88, 86, 94, 77, 73, 82, 95, 97]\r\nMean: 85.813\r\nMedian: 85.5\r\nMax: 100\r\nMin: 65",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 34
+    }
+  ]
+}
