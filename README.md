@@ -1,6 +1,6 @@
 # ArrayList Scores
 
-## Due: DoW MM/DD at 11:59 PM
+## Due: Thur 2/16 at 11:59 PM
 
 - Create a program called `Scores.java`
 - Prompt the user for a filename
@@ -20,7 +20,7 @@ Min: 64
 
 - - - - - - - - - - - -
 
-**Extra Credit:**
+**Challenge:**\
 In addition to the mean, median, max, and min, calculate the mode of the list as well
 
 ***Example Input:***\
