@@ -1,6 +1,6 @@
 # ArrayList Scores
 
-## Due: Thur 2/16 at 11:59 PM
+## Due: Thur 2/15 at 11:59 PM
 
 - Create a program called `Scores.java`
 - Prompt the user for a filename
